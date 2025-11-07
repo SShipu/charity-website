@@ -2,7 +2,7 @@
   <header id="header" class="header clearfix"> 
         <div class="header-wrap clearfix">
             <div id="logo" class="logo">
-                <a href="index.html" rel="home">
+                <a href="index" rel="home">
                     <img src="/images/logo.png" alt="image">
                 </a>
             </div><!-- /.logo -->            
@@ -13,27 +13,27 @@
                 <nav id="mainnav" class="mainnav">
                     <ul class="menu"> 
                         <li class="home has-sub">
-                            <a href="index.html">Home</a>
+                            <a href="/">Home</a>
                         </li>
-                        <li class="has-sub"><a href="about.html">About</a>
+                        <li class="has-sub"><a href="about">About</a>
                         </li> 
 
-                        <li><a href="programs.html">Programs</a>
+                        <li><a href="program">Programs</a>
                         </li>
 
-                        <li><a href="causes.html">Causes</a>              
+                        <li><a href="causes">Causes</a>              
                         </li>
 
-                        <li class="has-sub"><a href="gallery.html">Gallery</a>   
+                        <li class="has-sub"><a href="gallery">Gallery</a>   
                         </li>
 
-                        <li><a href="blog.html">News</a>
+                        <li><a href="blog">News</a>
                             <ul class="submenu"> 
-                                <li><a href="blog-single.html">Blog Single</a></li> 
+                                <li><a href="blog-single">Blog Single</a></li> 
                             </ul><!-- /.submenu --> 
                         </li>
 
-                        <li><a href="contact.html">Contact</a>
+                        <li><a href="contact">Contact</a>
                         </li>
                     </ul><!-- /.menu -->
                 </nav><!-- /.mainnav -->    
@@ -42,34 +42,34 @@
             <div class="flat-information">
                 <ul class="flat-socials">
                     <li class="facebook">
-                        <a href="index-v2.html#">
+                        <a href="">
                             <i class="fa fa-facebook"></i>
                         </a>
                     </li>
                     <li class="twitter">
-                        <a href="index-v2.html#">
+                        <a href="">
                             <i class="fa fa-twitter"></i>
                         </a>
                     </li>
                     <li class="google">
-                        <a href="index-v2.html#">
+                        <a href="">
                             <i class="fa fa-google-plus"></i>
                         </a>
                     </li>
                     <li class="linkedin">
-                        <a href="index-v2.html#">
+                        <a href="">
                             <i class="fa fa-linkedin"></i>
                         </a>
                     </li>
                     <li class="dribbble">
-                        <a href="index-v2.html#">
+                        <a href="">
                             <i class="fa fa-dribbble"></i>
                         </a>
                     </li>
                 </ul>
 
                 <div id ="s" class="search-box show-search">
-                    <a href="index-v2.html#search" class="flat-search"><i class="fa fa-search"></i></a> 
+                    <a href="search" class="flat-search"><i class="fa fa-search"></i></a> 
                     <div class="submenu top-search">
                         <div class="widget widget_search">
                             <form class="search-form">

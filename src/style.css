@@ -7,3 +7,8 @@ body {
   font-weight: 400;
   color: #999999 !important;
 }
+
+.row.justify-center {
+  display: flex;
+  justify-content: center;
+}
